@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-html {
-    @apply font-sans text-indigo-950 text-base
+html,body {
+    @apply font-sans text-indigo-950 text-base dark:bg-indigo-950 dark:text-indigo-50;
      
 }

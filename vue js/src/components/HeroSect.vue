@@ -17,7 +17,7 @@
   
   <!-- Header:> Logo navbar  -->
 
-    <header class="sticky top-0 shadow shadow-indigo-50 ">
+    <header class="sticky top-0 shadow shadow-indigo-50/20 z-10 bg-white dark:bg-indigo-900">
       <nav class="container flex justify-between items-center ">
 
         <div class="flex items-center gap-32">
@@ -30,10 +30,10 @@
 
             <a
               :href="link.url"
-              class="px-4 py-4 hover:text-indigo-900"
+              class="px-4 py-4 hover:text-indigo-900 dark:hover:text-indigo-200"
               v-for="(link, index) in links"
               :key="index"
-              :class="{'text-indigo-900 font-bold': link.active}"
+              :class="{'text-indigo-900 dark:text-indigo-50 font-bold': link.active}"
             >
               {{ link.name }}
             </a>
@@ -45,7 +45,7 @@
         </div>
         
         <!--  -->
-        <a href="#" class="flex items-center text-indigo-900 font-bold px-7 py-4">
+        <a href="#" class="flex items-center text-indigo-900 dark:text-indigo-50 font-bold px-7 py-4">
           <span>
             Get Started
           </span>
@@ -61,7 +61,7 @@
 
     <section class="relative py-10">
 
-      <div class="container grid grid-cols-2 gap-7">
+      <div class="container grid grid-cols-2 gap-7 ">
 
           <!-- left sect -->
         <div class="py-8 space-y-10">

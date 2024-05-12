@@ -31,7 +31,7 @@
 
     <section class="py-20">
 
-        <div class="container rounded-2xl bg-slate-50 py-10 space-y-7 px-10">
+        <div class="container rounded-2xl bg-slate-50 dark:bg-indigo-800/20 py-10 space-y-7 px-10">
             <!-- Title -->
 
             <h2 class="text-5xl text-center">
@@ -65,7 +65,7 @@
                 
                 <div class="flex-1 flex flex-col py-10">
                     <div class="h-96 max-w-sm bg-indigo-200 relative">
-                        <div class="absolute top-10 -right-10 bg-white flex justify-between items-center rounded overflow-hidden">
+                        <div class="absolute top-10 -right-10 bg-white dark:bg-indigo-950 flex justify-between items-center rounded overflow-hidden">
                             <!-- <img src="/vue js/src/assets/" alt="phone"> -->
                             <div class="px-7 ">
                                 <p class="font-bold text-1g">Morning Playlist</p>

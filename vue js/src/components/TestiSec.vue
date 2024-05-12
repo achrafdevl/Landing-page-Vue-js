@@ -4,7 +4,7 @@
 
 
 <template>
-    <section class="py-20 bg-slate-200/20">
+    <section class="py-20 bg-slate-200/20 dark:bg-indigo-800/10">
         <div class="container space-y-20">
             <div class="text-center space-y-3">
                 <p>Join tens of thousands of music lovers</p>
@@ -17,7 +17,7 @@
             <div class=" mx-auto container flex items-center gap-7">
 
                 <div 
-                    class="snap-start  flex flex-col items-center space-y-4 w-96 bg-white rounded-xl shadow p-8 "
+                    class=" flex flex-col items-center space-y-4 w-96 bg-white dark:bg-indigo-950 rounded-xl shadow  dark:shadow-indigo-800 p-8 "
                     v-for="i in 4"
                     :key="i"
                 >
@@ -26,7 +26,7 @@
                     <p class="text-xl font-semibold">John Doe</p>
                     <p class="text-sm text-gray-500">CEO at Company</p>
                     <p class="font-bold">Amazing sound !</p>
-                    <p class="text-gray-600 text-center">
+                    <p class="text-gray-600 text-center dark:text-indigo-200">
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
                         viverra ipsum dolor, ultricies fermentum massa consequat eu.
                         Nullam nec elit eget dolor pretium semper vel vitae neque.
