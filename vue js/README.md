@@ -1,3 +1,8 @@
+# landing page first experience with Vue js
+
+    [![Video Title](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_HERE)    
+
+
 # vue js
 
 This template should help get you started developing with Vue 3 in Vite.

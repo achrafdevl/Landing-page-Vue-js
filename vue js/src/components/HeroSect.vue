@@ -5,9 +5,9 @@
 
   const links = [
     { name: 'Home', url: "#", active: true },
-    { name: 'App', url: "#"},
-    { name: 'Feautures', url: "#"},
-    { name: 'Testimonials', url: "#"},
+    { name: 'App', url: "#ContentSec", },
+    { name: 'Feautures', url: "#FeautSec"},
+    { name: 'Testimonials', url: "#TestiSec"},
 
   ]
 
@@ -87,16 +87,16 @@
         <!-- right section -->
         <div class="absolute w-1/2  right-0 top-8 grid grid-cols-12 gap-2">
 
-          <div class="h-40 bg-gray-400/20 col-start-1 col-end-3 "></div>
-          <div class="h-40 bg-gray-400/20 col-start-3 col-end-8 "></div>
-          <div class="h-40 bg-gray-400/20 col-start-8 col-end-12 "></div>
+          <div class="h-40 bg-gray-400/20 col-start-1 col-end-3 "><img class="h-40 w-full" src="https://images.unsplash.com/photo-1534205643743-6737932c79ee?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt=""></div>
+          <div class="h-40 bg-gray-400/20 col-start-3 col-end-8 "><img class="h-40 w-full" src="https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt=""></div>
+          <div class="h-40 bg-gray-400/20 col-start-8 col-end-12 "><img class="h-40 w-full" src="https://images.unsplash.com/photo-1470225620780-dba8ba36b745?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt=""></div>
           
-          <div class="h-52 bg-gray-400/20 row-start-2 col-start-1 col-end-7 "></div>
-          <div class="h-52 bg-gray-400/20 col-start-7 col-end-12 "></div>
+          <div class="h-52 bg-gray-400/20 row-start-2 col-start-1 col-end-7 "><img class="h-52 w-full" src="https://images.unsplash.com/photo-1620704075906-27bfa0d54f3b?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt=""></div>
+          <div class="h-52 bg-gray-400/20 col-start-7 col-end-12 "><img class="h-52 w-full" src="https://images.unsplash.com/photo-1459749411175-04bf5292ceea?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt=""></div>
 
-          <div class="h-48 bg-gray-400/20 row-start-3 col-start-1 col-end-3 "></div>
-          <div class="h-48 bg-gray-400/20 col-start-3 col-end-8 "></div>
-          <div class="h-48 bg-gray-400/20 col-start-8 col-end-12 "></div>
+          <div class="h-48 bg-gray-400/20 row-start-3 col-start-1 col-end-3 "><img class="h-48 w-full" src="https://images.unsplash.com/photo-1620578077783-33e254311182?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt=""></div>
+          <div class="h-48 bg-gray-400/20 col-start-3 col-end-8 "><img class="h-48 w-full" src="https://images.unsplash.com/photo-1460723237483-7a6dc9d0b212?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt=""></div>
+          <div class="h-48 bg-gray-400/20 col-start-8 col-end-12 "><img class="h-48 w-full" src="https://images.unsplash.com/photo-1525362081669-2b476bb628c3?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt=""></div>
 
         </div>
         

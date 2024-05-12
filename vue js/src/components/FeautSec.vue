@@ -9,7 +9,7 @@
 
             <!-- left img -->
             <div >
-                <img src="https://images.unsplash.com/photo-1491927570842-0261e477d937?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Description of the image" class="h-[800px] bg-pink-50 rounded-3xl">
+                <img src="https://images.unsplash.com/photo-1588693951525-7b0be0fc710f?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Description of the image" class="h-[800px] bg-pink-50 rounded-3xl">
             </div>
 
             <!-- right sec -->
